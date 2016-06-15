@@ -1,0 +1,14 @@
+*{
+	margin:2;
+	padding: 2;
+}
+#container{
+	width:300px;
+	margin:50px auto;
+}
+#canvas{
+	background: green;
+}
+
+
+
